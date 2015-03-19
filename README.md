@@ -1,4 +1,4 @@
-This is a vanilla JS version of [what is being made in this video](https://www.youtube.com/watch?v=tPtHmZAnV70). This is currently in the works. I'm planning on also adding a table with loadtimes in here.
+This is a vanilla JS version of [what is being made in this video](https://www.youtube.com/watch?v=tPtHmZAnV70). I'd love to add some page speed stats, but testing is hard :( Want to help? I'd love that!
 
 # How to get more signups using browser cookies
 #### This repo accompanies a YouTube video, [watch that here](https://www.youtube.com/watch?v=tPtHmZAnV70).
